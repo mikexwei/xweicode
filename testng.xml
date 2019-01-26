@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testngquestion" verbose="1" parallel="methods" thread-count="1">
+    <test name="simple">
+        <parameter name="para1" value="bar1" />
+        <parameter name="foo2" value="bar2" />
+        <groups>
+            <run>
+                <include name="simple" />
+            </run>
+        </groups>
+        <packages>
+            <package name="testngquestion" />
+        </packages>
+        <classes>
+            <class name="SimpleTests" />
+        </classes>
+
+    </test>
+</suite>
