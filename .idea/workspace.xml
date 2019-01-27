@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="" />
+    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +32,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="21" />
-          <entry key="java" value="49" />
+          <entry key="java" value="51" />
           <entry key="json" value="4" />
           <entry key="xml" value="9" />
         </counts>
@@ -34,20 +40,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="21" />
-          <entry key="JAVA" value="49" />
+          <entry key="JAVA" value="51" />
           <entry key="JSON" value="4" />
           <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6131" />
+          <entry key="java" value="9943" />
           <entry key="xml" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6131" />
+          <entry key="JAVA" value="9943" />
           <entry key="XML" value="215" />
         </counts>
       </usages-collector>
@@ -67,8 +73,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="198">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TwoSumTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,10 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TwoSumTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="1368">
+              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,6 +144,9 @@
       <find>testng</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -137,15 +171,12 @@
         <option value="$PROJECT_DIR$/src/test/java/personal/xwei/json/compare/actual.json" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/personal/xwei/json/compare/CompareJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/TwoSumTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java" />
       </list>
     </option>
-  </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="TestNG" name="SimpleTests" />
-    </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -160,6 +191,7 @@
     <option name="width" value="2100" />
     <option name="height" value="1500" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <abbreviatePackageNames ProjectPane="false" />
@@ -230,7 +262,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548493753834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548563277498" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -245,63 +277,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TwoSumTests">
-    <configuration name="CompareJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="personal.xwei.json.compare.CompareJson" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="personal.xwei.json.compare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode.TwoSum$Solution" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.personal.xwei.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode.TwoSum" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.personal.xwei.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnnotationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="personal.xwei.testng.annotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="personal.xwei.testng.annotation" />
-      <option name="MAIN_CLASS_NAME" value="personal.xwei.testng.annotation.AnnotationTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoSumTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AddTwoNumbersTests">
+    <configuration name="AddTwoNumbersTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -310,7 +287,79 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.TwoSumTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTests.testL1Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="METHOD_NAME" value="testL1Longer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTests.testL2Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="METHOD_NAME" value="testL2Longer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="METHOD_NAME" value="testSameLengthNoCarry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTests.testSameLengthWithCarry" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="METHOD_NAME" value="testSameLengthWithCarry" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -318,19 +367,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.AnnotationTest" />
-      <item itemvalue="Application.CompareJson" />
-      <item itemvalue="Application.TwoSum" />
-      <item itemvalue="Application.TwoSum$Solution" />
-      <item itemvalue="TestNG.TwoSumTests" />
+      <item itemvalue="TestNG.AddTwoNumbersTests.testSameLengthNoCarry" />
+      <item itemvalue="TestNG.AddTwoNumbersTests.testSameLengthWithCarry" />
+      <item itemvalue="TestNG.AddTwoNumbersTests.testL1Longer" />
+      <item itemvalue="TestNG.AddTwoNumbersTests.testL2Longer" />
+      <item itemvalue="TestNG.AddTwoNumbersTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TwoSumTests" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.TwoSum$Solution" />
-        <item itemvalue="Application.CompareJson" />
-        <item itemvalue="TestNG.AnnotationTest" />
+        <item itemvalue="TestNG.AddTwoNumbersTests" />
+        <item itemvalue="TestNG.AddTwoNumbersTests.testL2Longer" />
+        <item itemvalue="TestNG.AddTwoNumbersTests.testL1Longer" />
+        <item itemvalue="TestNG.AddTwoNumbersTests.testSameLengthWithCarry" />
+        <item itemvalue="TestNG.AddTwoNumbersTests.testSameLengthNoCarry" />
       </list>
     </recent_temporary>
   </component>
@@ -348,57 +397,56 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleTest - 2018.08.16 at 22h 18m 10s.xml">
-      <configuration name="SimpleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SimpleTest - 2018.08.16 at 22h 19m 36s.xml">
-      <configuration name="SimpleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SimpleTest - 2018.08.16 at 22h 20m 03s.xml">
-      <configuration name="SimpleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SimpleTest - 2018.08.16 at 22h 20m 39s.xml">
-      <configuration name="SimpleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SimpleTest - 2018.08.16 at 22h 21m 16s.xml">
-      <configuration name="SimpleTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AnnotationTest - 2018.08.20 at 21h 25m 21s.xml">
-      <configuration name="AnnotationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AnnotationTest - 2018.08.20 at 22h 07m 32s.xml">
-      <configuration name="AnnotationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AnnotationTest - 2018.08.20 at 22h 07m 56s.xml">
-      <configuration name="AnnotationTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AnnotationTest - 2018.08.20 at 22h 54m 55s.xml">
       <configuration name="AnnotationTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="AnnotationTest - 2018.08.20 at 22h 55m 15s.xml">
       <configuration name="AnnotationTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TwoSumTests - 2019.01.26 at 01h 09m 16s.xml">
+      <configuration name="TwoSumTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testSameLengthNoCarry - 2019.01.26 at 20h 24m 09s.xml">
+      <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testSameLengthNoCarry - 2019.01.26 at 20h 25m 14s.xml">
+      <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testSameLengthWithCarry - 2019.01.26 at 20h 25m 21s.xml">
+      <configuration name="AddTwoNumbersTests.testSameLengthWithCarry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testL1Longer - 2019.01.26 at 20h 26m 59s.xml">
+      <configuration name="AddTwoNumbersTests.testL1Longer" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testL1Longer - 2019.01.26 at 20h 27m 24s.xml">
+      <configuration name="AddTwoNumbersTests.testL1Longer" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests_testL2Longer - 2019.01.26 at 20h 27m 48s.xml">
+      <configuration name="AddTwoNumbersTests.testL2Longer" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests - 2019.01.26 at 20h 27m 53s.xml">
+      <configuration name="AddTwoNumbersTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299532" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.22308892" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
@@ -414,21 +462,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/FactoryMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/TestNGClassFinder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/TestRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
@@ -766,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -778,6 +824,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
