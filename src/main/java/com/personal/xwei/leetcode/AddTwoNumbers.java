@@ -32,7 +32,6 @@ public class AddTwoNumbers {
 
   public static class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-      boolean carry = false;
       ListNode result = l1;
       ListNode pointer = l1;
       while (pointer.next != null && l2.next != null) {
@@ -56,8 +55,9 @@ public class AddTwoNumbers {
         if (pointer.val >= 10) {
           pointer.val -= 10;
           l2.next.val += 1;
-          pointer.next = l2.next;
         }
+        pointer.next = l2.next;
+
       }
       else {
         pointer.val += l2.val;
@@ -85,47 +85,47 @@ public class AddTwoNumbers {
     }
   }
 
-//  public static void main(String[] args) {
-//    ListNode l1 = new ListNode(9);
-//    ListNode l2 = new ListNode(9);
-//    ListNode p1 = l1;
-//    ListNode p2 = l2;
-//
-//    int[] arr1 = new int[] {1, 0, 8, 9, 9};
-//    int[] arr2 = new int[] {9, 9, 9, 9, 9};
-//
-//    for (int i = 0; i < arr1.length; i++) {
-//      ListNode ln1 = new ListNode(arr1[i]);
-//      p1.next = ln1;
-//      p1 = p1.next;
+  public static void main(String[] args) {
+    ListNode l1 = new ListNode(1);
+    ListNode l2 = new ListNode(2);
+    ListNode p1 = l1;
+    ListNode p2 = l2;
+
+    int[] arr1 = new int[] {1, 1};
+    int[] arr2 = new int[] {2, 2};
+
+    for (int i = 0; i < arr1.length; i++) {
+      ListNode ln1 = new ListNode(arr1[i]);
+      p1.next = ln1;
+      p1 = p1.next;
+    }
+
+    for (int j = 0; j < arr2.length; j++) {
+      ListNode ln2 = new ListNode(arr2[j]);
+      p2.next = ln2;
+      p2 = p2.next;
+    }
+
+//    while (l1 != null) {
+//      System.out.print(String.valueOf(l1.val) + " ");
+//      l1 = l1.next;
 //    }
+//    System.out.println("---");
 //
-//    for (int j = 0; j < arr2.length; j++) {
-//      ListNode ln2 = new ListNode(arr2[j]);
-//      p2.next = ln2;
-//      p2 = p2.next;
+//    while (l2 != null) {
+//      System.out.print(String.valueOf(l2.val) + " ");
+//      l2 = l2.next;
 //    }
-//
-////    while (l1 != null) {
-////      System.out.print(String.valueOf(l1.val) + " ");
-////      l1 = l1.next;
-////    }
-////    System.out.println("---");
-////
-////    while (l2 != null) {
-////      System.out.print(String.valueOf(l2.val) + " ");
-////      l2 = l2.next;
-////    }
-////    System.out.println("---");
-//
-//    Solution s = new Solution();
-//    ListNode result  = s.addTwoNumbers(l1, l2);
-//
-//
-//
-//    while (result != null) {
-//      System.out.print(String.valueOf(result.val) + " ");
-//      result = result.next;
-//    }
-//  }
+//    System.out.println("---");
+
+    Solution s = new Solution();
+    ListNode result  = s.addTwoNumbers(l1, l2);
+
+
+
+    while (result != null) {
+      System.out.print(String.valueOf(result.val) + " ");
+      result = result.next;
+    }
+  }
 }

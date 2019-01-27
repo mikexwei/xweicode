@@ -83,4 +83,30 @@ public class AddTwoNumbersTests {
     List expect = Arrays.asList(3, 3, 3, 0, 0, 0, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
+
+  @Test(testName = "l1 only 0")
+  public void testL1OnlyZero() {
+    int[] arr1 = new int[] {0};
+    int[] arr2 = new int[] {2, 8, 9};
+    ListNode l1 = convertArrayToListNode(arr1);
+    ListNode l2 = convertArrayToListNode(arr2);
+
+
+    List actual = convertListNodeToList(new AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List expect = Arrays.asList(2,8, 9);
+    Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
+  }
+
+  @Test(testName = "l2 only 0")
+  public void testL2OnlyZero() {
+    int[] arr2 = new int[] {0};
+    int[] arr1 = new int[] {2, 8, 9};
+    ListNode l1 = convertArrayToListNode(arr1);
+    ListNode l2 = convertArrayToListNode(arr2);
+
+
+    List actual = convertListNodeToList(new AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List expect = Arrays.asList(2,8, 9);
+    Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
+  }
 }
