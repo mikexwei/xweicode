@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="379">
+              <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding>
                 <element signature="e#163#164#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -107,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="1026">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -259,7 +256,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548563897061" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548566891413" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -274,9 +271,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AddTwoNumbersTests">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode.AddTwoNumbers" />
+  <component name="RunManager">
+    <configuration name="_002AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._002AddTwoNumbers" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -288,7 +285,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbersTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_001TwoSumTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -297,14 +294,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._001TwoSumTests" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbersTests.testL1Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_002AddTwoNumbersTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -313,16 +310,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
-      <option name="METHOD_NAME" value="testL1Longer" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._002AddTwoNumbersTests" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbersTests.testL1OnlyZero" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_002AddTwoNumbersTests.testL1OnlyZero" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -331,7 +326,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._002AddTwoNumbersTests" />
       <option name="METHOD_NAME" value="testL1OnlyZero" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -340,7 +335,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbersTests.testL2Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_002AddTwoNumbersTests.testL2Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -349,7 +344,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbersTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._002AddTwoNumbersTests" />
       <option name="METHOD_NAME" value="testL2Longer" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -359,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.AddTwoNumbersTests.testL1Longer" />
-      <item itemvalue="TestNG.AddTwoNumbersTests.testL2Longer" />
-      <item itemvalue="TestNG.AddTwoNumbersTests" />
-      <item itemvalue="Application.AddTwoNumbers" />
-      <item itemvalue="TestNG.AddTwoNumbersTests.testL1OnlyZero" />
+      <item itemvalue="TestNG._002AddTwoNumbersTests.testL2Longer" />
+      <item itemvalue="TestNG._002AddTwoNumbersTests" />
+      <item itemvalue="Application._002AddTwoNumbers" />
+      <item itemvalue="TestNG._002AddTwoNumbersTests.testL1OnlyZero" />
+      <item itemvalue="TestNG._001TwoSumTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AddTwoNumbersTests" />
-        <item itemvalue="Application.AddTwoNumbers" />
-        <item itemvalue="TestNG.AddTwoNumbersTests.testL1OnlyZero" />
-        <item itemvalue="TestNG.AddTwoNumbersTests.testL2Longer" />
-        <item itemvalue="TestNG.AddTwoNumbersTests.testL1Longer" />
+        <item itemvalue="TestNG._002AddTwoNumbersTests" />
+        <item itemvalue="TestNG._001TwoSumTests" />
+        <item itemvalue="Application._002AddTwoNumbers" />
+        <item itemvalue="TestNG._002AddTwoNumbersTests.testL1OnlyZero" />
+        <item itemvalue="TestNG._002AddTwoNumbersTests.testL2Longer" />
       </list>
     </recent_temporary>
   </component>
@@ -389,9 +384,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTests_testSameLengthNoCarry - 2019.01.26 at 20h 24m 09s.xml">
-      <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AddTwoNumbersTests_testSameLengthNoCarry - 2019.01.26 at 20h 25m 14s.xml">
       <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" configurationId="TestNG" />
     </history-entry>
@@ -417,6 +409,9 @@
       <configuration name="AddTwoNumbersTests.testL1OnlyZero" configurationId="TestNG" />
     </history-entry>
     <history-entry file="AddTwoNumbersTests - 2019.01.26 at 20h 36m 28s.xml">
+      <configuration name="AddTwoNumbersTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddTwoNumbersTests - 2019.01.26 at 20h 38m 19s.xml">
       <configuration name="AddTwoNumbersTests" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -825,7 +820,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="1026">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -835,8 +830,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="379">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
           <folding>
             <element signature="e#163#164#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />

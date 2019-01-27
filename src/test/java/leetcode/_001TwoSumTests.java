@@ -1,14 +1,14 @@
 package leetcode;
 
-import com.personal.xwei.leetcode.TwoSum;
+import com.personal.xwei.leetcode._002TwoSum;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TwoSumTests {
+public class _001TwoSumTests {
 
   @Test
   public void testTwoSumAnswerExist() {
-    TwoSum.Solution solution = new TwoSum.Solution();
+    _002TwoSum.Solution solution = new _002TwoSum.Solution();
     int[] input = new int[] {4, 6, 2, 3, 1, 8, 9};
     int target = 15;
     int[] expect = new int[] {1, 6};

@@ -9,7 +9,7 @@ import java.util.Map;
  *
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
  */
-public class TwoSum {
+public class _002TwoSum {
   public static class Solution {
     public int[] twoSum(int[] nums, int target) {
       Map<Integer, Integer> map = new HashMap<>();
