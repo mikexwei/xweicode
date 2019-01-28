@@ -21,7 +21,7 @@ package com.personal.xwei.leetcode;
  * }
  */
 
-public class _002AddTwoNumbers {
+public class _0002AddTwoNumbers {
   public static class ListNode {
     public int val;
     public ListNode next;

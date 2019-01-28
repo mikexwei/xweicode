@@ -3,7 +3,7 @@ package com.personal.xwei.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-public class _771JewelsAndStones {
+public class _0771JewelsAndStones {
 
   public int numJewelsInStones(String J, String S) {
     int ans = 0;

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_771JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_001TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -288,7 +279,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548643578661" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548661396704" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -414,9 +405,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTests_testL1OnlyZero - 2019.01.26 at 20h 35m 05s.xml">
-      <configuration name="AddTwoNumbersTests.testL1OnlyZero" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AddTwoNumbersTests_testL1OnlyZero - 2019.01.26 at 20h 35m 33s.xml">
       <configuration name="AddTwoNumbersTests.testL1OnlyZero" configurationId="TestNG" />
     </history-entry>
@@ -444,20 +432,22 @@
     <history-entry file="JewelsAndStonesTests_testJewelsAndStones - 2019.01.27 at 18h 45m 13s.xml">
       <configuration name="JewelsAndStonesTests.testJewelsAndStones" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_771JewelsAndStonesTests - 2019.01.27 at 18h 46m 13s.xml">
+      <configuration name="_771JewelsAndStonesTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
