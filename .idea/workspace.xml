@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="" />
+    <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_771JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_001TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +34,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="21" />
-          <entry key="java" value="51" />
+          <entry key="class" value="22" />
+          <entry key="java" value="58" />
           <entry key="json" value="4" />
           <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="21" />
-          <entry key="JAVA" value="51" />
+          <entry key="CLASS" value="22" />
+          <entry key="JAVA" value="58" />
           <entry key="JSON" value="4" />
           <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10005" />
+          <entry key="dummy" value="23" />
+          <entry key="java" value="11323" />
           <entry key="xml" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10005" />
+          <entry key="JAVA" value="11323" />
+          <entry key="PLAIN_TEXT" value="23" />
           <entry key="XML" value="215" />
         </counts>
       </usages-collector>
@@ -56,19 +67,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+            <state relative-caret-position="595">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_771JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,23 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TwoSumTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,10 +103,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="278">
+              <caret line="340" column="18" selection-start-line="340" selection-start-column="18" selection-end-line="340" selection-end-column="18" />
+              <folding>
+                <element signature="e#10497#10498#0" expanded="true" />
+                <element signature="e#10555#10556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="107" column="61" selection-start-line="107" selection-start-column="61" selection-end-line="107" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,10 +128,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/IntConsumer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            <state relative-caret-position="1">
+              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -169,6 +192,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_001AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_001TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/JewelsAndStones.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/JewelsAndStonesTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java" />
       </list>
     </option>
   </component>
@@ -256,7 +288,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548566891413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548643578661" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -271,9 +303,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="_002AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._002AddTwoNumbers" />
+  <component name="RunManager" selected="TestNG._771JewelsAndStonesTests">
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode.LongestSubstringWithoutRepeatingCharacters" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -317,7 +349,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_002AddTwoNumbersTests.testL1OnlyZero" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_771JewelsAndStonesTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -326,16 +358,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._002AddTwoNumbersTests" />
-      <option name="METHOD_NAME" value="testL1OnlyZero" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._771JewelsAndStonesTests" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_002AddTwoNumbersTests.testL2Longer" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_771JewelsAndStonesTests.testJewelsAndStones" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -344,8 +374,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._002AddTwoNumbersTests" />
-      <option name="METHOD_NAME" value="testL2Longer" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._771JewelsAndStonesTests" />
+      <option name="METHOD_NAME" value="testJewelsAndStones" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -354,19 +384,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG._002AddTwoNumbersTests.testL2Longer" />
       <item itemvalue="TestNG._002AddTwoNumbersTests" />
-      <item itemvalue="Application._002AddTwoNumbers" />
-      <item itemvalue="TestNG._002AddTwoNumbersTests.testL1OnlyZero" />
       <item itemvalue="TestNG._001TwoSumTests" />
+      <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+      <item itemvalue="TestNG._771JewelsAndStonesTests.testJewelsAndStones" />
+      <item itemvalue="TestNG._771JewelsAndStonesTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG._002AddTwoNumbersTests" />
+        <item itemvalue="TestNG._771JewelsAndStonesTests" />
+        <item itemvalue="TestNG._771JewelsAndStonesTests.testJewelsAndStones" />
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="TestNG._001TwoSumTests" />
-        <item itemvalue="Application._002AddTwoNumbers" />
-        <item itemvalue="TestNG._002AddTwoNumbersTests.testL1OnlyZero" />
-        <item itemvalue="TestNG._002AddTwoNumbersTests.testL2Longer" />
+        <item itemvalue="TestNG._002AddTwoNumbersTests" />
       </list>
     </recent_temporary>
   </component>
@@ -384,24 +414,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTests_testSameLengthNoCarry - 2019.01.26 at 20h 25m 14s.xml">
-      <configuration name="AddTwoNumbersTests.testSameLengthNoCarry" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTests_testSameLengthWithCarry - 2019.01.26 at 20h 25m 21s.xml">
-      <configuration name="AddTwoNumbersTests.testSameLengthWithCarry" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTests_testL1Longer - 2019.01.26 at 20h 26m 59s.xml">
-      <configuration name="AddTwoNumbersTests.testL1Longer" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTests_testL1Longer - 2019.01.26 at 20h 27m 24s.xml">
-      <configuration name="AddTwoNumbersTests.testL1Longer" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTests_testL2Longer - 2019.01.26 at 20h 27m 48s.xml">
-      <configuration name="AddTwoNumbersTests.testL2Longer" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTwoNumbersTests - 2019.01.26 at 20h 27m 53s.xml">
-      <configuration name="AddTwoNumbersTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AddTwoNumbersTests_testL1OnlyZero - 2019.01.26 at 20h 35m 05s.xml">
       <configuration name="AddTwoNumbersTests.testL1OnlyZero" configurationId="TestNG" />
     </history-entry>
@@ -414,6 +426,24 @@
     <history-entry file="AddTwoNumbersTests - 2019.01.26 at 20h 38m 19s.xml">
       <configuration name="AddTwoNumbersTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_001TwoSumTests - 2019.01.26 at 21h 28m 04s.xml">
+      <configuration name="_001TwoSumTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_002AddTwoNumbersTests - 2019.01.26 at 21h 28m 12s.xml">
+      <configuration name="_002AddTwoNumbersTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_002AddTwoNumbersTests - 2019.01.26 at 21h 41m 31s.xml">
+      <configuration name="_002AddTwoNumbersTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_001TwoSumTests - 2019.01.26 at 21h 41m 36s.xml">
+      <configuration name="_001TwoSumTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="JewelsAndStonesTests_testJewelsAndStones - 2019.01.27 at 18h 44m 26s.xml">
+      <configuration name="JewelsAndStonesTests.testJewelsAndStones" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="JewelsAndStonesTests_testJewelsAndStones - 2019.01.27 at 18h 45m 13s.xml">
+      <configuration name="JewelsAndStonesTests.testJewelsAndStones" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
@@ -424,10 +454,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -454,50 +484,21 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java</url>
           <line>125</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/SuiteRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/TestNG.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14382">
-          <caret line="901" selection-start-line="901" selection-end-line="901" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/ITest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/ITestResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/xml/XmlTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3708">
@@ -537,6 +538,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14346">
           <caret line="839" selection-start-line="839" selection-end-line="839" />
+          <folding>
+            <element signature="e#31039#31040#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -798,43 +802,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_001TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="11" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/TwoSumTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="252">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/AddTwoNumbersTests.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="548">
+          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_002AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/AddTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_771JewelsAndStones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="107" column="61" selection-start-line="107" selection-start-column="61" selection-end-line="107" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="340" column="18" selection-start-line="340" selection-start-column="18" selection-end-line="340" selection-end-column="18" />
+          <folding>
+            <element signature="e#10497#10498#0" expanded="true" />
+            <element signature="e#10555#10556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

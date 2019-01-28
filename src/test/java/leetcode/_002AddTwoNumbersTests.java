@@ -40,7 +40,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(3, 5, 7);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
@@ -53,7 +53,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(3, 3, 8);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
@@ -66,7 +66,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(3, 3, 3, 0, 0, 0, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
@@ -79,7 +79,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(3, 3, 3, 0, 0, 0, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
@@ -92,7 +92,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(2,8, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
@@ -105,7 +105,7 @@ public class _002AddTwoNumbersTests {
     ListNode l2 = convertArrayToListNode(arr2);
 
 
-    List actual = convertListNodeToList(new _002AddTwoNumbers.Solution().addTwoNumbers(l1, l2));
+    List actual = convertListNodeToList(new _002AddTwoNumbers().addTwoNumbers(l1, l2));
     List expect = Arrays.asList(2,8, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
