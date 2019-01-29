@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0977SquaresOfASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/ReverseIntegerTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +30,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="22" />
-          <entry key="java" value="63" />
+          <entry key="java" value="65" />
           <entry key="json" value="4" />
           <entry key="xml" value="9" />
         </counts>
@@ -38,7 +38,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="22" />
-          <entry key="JAVA" value="63" />
+          <entry key="JAVA" value="65" />
           <entry key="JSON" value="4" />
           <entry key="XML" value="9" />
         </counts>
@@ -46,13 +46,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="46" />
-          <entry key="java" value="12654" />
+          <entry key="java" value="14544" />
           <entry key="xml" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12654" />
+          <entry key="JAVA" value="14544" />
           <entry key="PLAIN_TEXT" value="46" />
           <entry key="XML" value="215" />
         </counts>
@@ -61,18 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0771JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,11 +118,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ReverseIntegerTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,18 +159,6 @@
               <folding>
                 <element signature="e#10497#10498#0" expanded="true" />
                 <element signature="e#10555#10556#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="107" column="62" selection-start-line="107" selection-start-column="62" selection-end-line="107" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -239,6 +236,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/SquaresOfASortedArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/SquaresOfASortedArrayTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/ReverseIntegerTests.java" />
       </list>
     </option>
   </component>
@@ -326,7 +325,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548664559798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548745493007" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -341,9 +340,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG._0977SquaresOfASortedArrayTests">
-    <configuration name="_0929UniqueEmailAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._0929UniqueEmailAddresses" />
+  <component name="RunManager" selected="TestNG._0007ReverseIntegerTests">
+    <configuration name="_0007ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._0007ReverseInteger" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -364,6 +363,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_0007ReverseIntegerTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0007ReverseIntegerTests" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -400,36 +415,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_771JewelsAndStonesTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._771JewelsAndStonesTests" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG._771JewelsAndStonesTests" />
-      <item itemvalue="Application._0929UniqueEmailAddresses" />
       <item itemvalue="TestNG._0929UniqueEmailAddressesTests" />
       <item itemvalue="Application._0977SquaresOfASortedArray" />
       <item itemvalue="TestNG._0977SquaresOfASortedArrayTests" />
+      <item itemvalue="Application._0007ReverseInteger" />
+      <item itemvalue="TestNG._0007ReverseIntegerTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG._0007ReverseIntegerTests" />
+        <item itemvalue="Application._0007ReverseInteger" />
         <item itemvalue="TestNG._0977SquaresOfASortedArrayTests" />
         <item itemvalue="Application._0977SquaresOfASortedArray" />
         <item itemvalue="TestNG._0929UniqueEmailAddressesTests" />
-        <item itemvalue="Application._0929UniqueEmailAddresses" />
-        <item itemvalue="TestNG._771JewelsAndStonesTests" />
       </list>
     </recent_temporary>
   </component>
@@ -447,9 +446,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_001TwoSumTests - 2019.01.26 at 21h 28m 04s.xml">
-      <configuration name="_001TwoSumTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_002AddTwoNumbersTests - 2019.01.26 at 21h 28m 12s.xml">
       <configuration name="_002AddTwoNumbersTests" configurationId="TestNG" />
     </history-entry>
@@ -477,19 +473,23 @@
     <history-entry file="SquaresOfASortedArrayTests - 2019.01.28 at 00h 35m 31s.xml">
       <configuration name="SquaresOfASortedArrayTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ReverseIntegerTests - 2019.01.28 at 23h 04m 40s.xml">
+      <configuration name="ReverseIntegerTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.13916501" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,27 +527,22 @@
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/personal/xwei/testng/question/RetryListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14346">
-          <caret line="839" selection-start-line="839" selection-end-line="839" />
-          <folding>
-            <element signature="e#31039#31040#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
@@ -921,7 +916,24 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/ReverseIntegerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
