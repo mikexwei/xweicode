@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0f4cb1a-7ca6-4d71-b6aa-2ed133803e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0007ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0007ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,13 +46,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="56" />
-          <entry key="java" value="14601" />
+          <entry key="java" value="14928" />
           <entry key="xml" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14601" />
+          <entry key="JAVA" value="14928" />
           <entry key="PLAIN_TEXT" value="56" />
           <entry key="XML" value="215" />
         </counts>
@@ -118,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -130,8 +127,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="541">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,13 +139,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="45" column="32" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="32" />
+            <state relative-caret-position="754">
+              <caret line="47" selection-start-line="47" selection-start-column="2" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -233,8 +233,9 @@
         <option value="$PROJECT_DIR$/src/test/java/leetcode/ReverseIntegerTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0007ReverseIntegerTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0007ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java" />
       </list>
     </option>
   </component>
@@ -322,7 +323,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548745759712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548746947728" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -337,34 +338,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG._0007ReverseIntegerTests">
-    <configuration name="_0007ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._0007ReverseInteger" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.personal.xwei.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0977SquaresOfASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.personal.xwei.leetcode._0977SquaresOfASortedArray" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.personal.xwei.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_0007ReverseIntegerTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG._0009PalindromeNumberTests.testEvenFalse">
+    <configuration name="_0009PalindromeNumberTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -373,14 +348,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._0007ReverseIntegerTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0009PalindromeNumberTests" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0929UniqueEmailAddressesTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_0009PalindromeNumberTests.testEvenFalse" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -389,14 +364,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._0929UniqueEmailAddressesTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0009PalindromeNumberTests" />
+      <option name="METHOD_NAME" value="testEvenFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_0977SquaresOfASortedArrayTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_0009PalindromeNumberTests.testEvenTrue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -405,7 +382,45 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetcode" />
-      <option name="MAIN_CLASS_NAME" value="leetcode._0977SquaresOfASortedArrayTests" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0009PalindromeNumberTests" />
+      <option name="METHOD_NAME" value="testEvenTrue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_0009PalindromeNumberTests.testOddFalse" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0009PalindromeNumberTests" />
+      <option name="METHOD_NAME" value="testOddFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_0009PalindromeNumberTests.testZero" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetcode" />
+      <option name="MAIN_CLASS_NAME" value="leetcode._0009PalindromeNumberTests" />
+      <option name="METHOD_NAME" value="testZero" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -413,19 +428,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG._0929UniqueEmailAddressesTests" />
-      <item itemvalue="Application._0977SquaresOfASortedArray" />
-      <item itemvalue="TestNG._0977SquaresOfASortedArrayTests" />
-      <item itemvalue="Application._0007ReverseInteger" />
-      <item itemvalue="TestNG._0007ReverseIntegerTests" />
+      <item itemvalue="TestNG._0009PalindromeNumberTests.testEvenTrue" />
+      <item itemvalue="TestNG._0009PalindromeNumberTests.testZero" />
+      <item itemvalue="TestNG._0009PalindromeNumberTests.testOddFalse" />
+      <item itemvalue="TestNG._0009PalindromeNumberTests" />
+      <item itemvalue="TestNG._0009PalindromeNumberTests.testEvenFalse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG._0007ReverseIntegerTests" />
-        <item itemvalue="Application._0007ReverseInteger" />
-        <item itemvalue="TestNG._0977SquaresOfASortedArrayTests" />
-        <item itemvalue="Application._0977SquaresOfASortedArray" />
-        <item itemvalue="TestNG._0929UniqueEmailAddressesTests" />
+        <item itemvalue="TestNG._0009PalindromeNumberTests.testEvenFalse" />
+        <item itemvalue="TestNG._0009PalindromeNumberTests" />
+        <item itemvalue="TestNG._0009PalindromeNumberTests.testOddFalse" />
+        <item itemvalue="TestNG._0009PalindromeNumberTests.testZero" />
+        <item itemvalue="TestNG._0009PalindromeNumberTests.testEvenTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -443,27 +458,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_002AddTwoNumbersTests - 2019.01.26 at 21h 28m 12s.xml">
-      <configuration name="_002AddTwoNumbersTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_002AddTwoNumbersTests - 2019.01.26 at 21h 41m 31s.xml">
-      <configuration name="_002AddTwoNumbersTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_001TwoSumTests - 2019.01.26 at 21h 41m 36s.xml">
-      <configuration name="_001TwoSumTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="JewelsAndStonesTests_testJewelsAndStones - 2019.01.27 at 18h 44m 26s.xml">
-      <configuration name="JewelsAndStonesTests.testJewelsAndStones" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="JewelsAndStonesTests_testJewelsAndStones - 2019.01.27 at 18h 45m 13s.xml">
-      <configuration name="JewelsAndStonesTests.testJewelsAndStones" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_771JewelsAndStonesTests - 2019.01.27 at 18h 46m 13s.xml">
-      <configuration name="_771JewelsAndStonesTests" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="UniqueEmailAddressesTests - 2019.01.28 at 00h 07m 45s.xml">
-      <configuration name="UniqueEmailAddressesTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_0929UniqueEmailAddressesTests - 2019.01.28 at 00h 11m 58s.xml">
       <configuration name="_0929UniqueEmailAddressesTests" configurationId="TestNG" />
     </history-entry>
@@ -472,6 +466,27 @@
     </history-entry>
     <history-entry file="ReverseIntegerTests - 2019.01.28 at 23h 04m 40s.xml">
       <configuration name="ReverseIntegerTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testOddTrue - 2019.01.28 at 23h 24m 48s.xml">
+      <configuration name="_0009PalindromeNumberTests.testOddTrue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testOddTrue - 2019.01.28 at 23h 25m 25s.xml">
+      <configuration name="_0009PalindromeNumberTests.testOddTrue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testEvenTrue - 2019.01.28 at 23h 25m 47s.xml">
+      <configuration name="_0009PalindromeNumberTests.testEvenTrue" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testZero - 2019.01.28 at 23h 26m 10s.xml">
+      <configuration name="_0009PalindromeNumberTests.testZero" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testOddFalse - 2019.01.28 at 23h 26m 36s.xml">
+      <configuration name="_0009PalindromeNumberTests.testOddFalse" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests - 2019.01.28 at 23h 27m 02s.xml">
+      <configuration name="_0009PalindromeNumberTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_0009PalindromeNumberTests_testEvenFalse - 2019.01.28 at 23h 27m 05s.xml">
+      <configuration name="_0009PalindromeNumberTests.testEvenFalse" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -909,31 +924,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="32" />
+        <state relative-caret-position="754">
+          <caret line="47" selection-start-line="47" selection-start-column="2" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="541">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0009PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
