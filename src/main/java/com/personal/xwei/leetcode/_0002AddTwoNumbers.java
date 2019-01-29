@@ -15,9 +15,9 @@ package com.personal.xwei.leetcode;
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
+ * int val;
+ * ListNode next;
+ * ListNode(int x) { val = x; }
  * }
  */
 
@@ -81,49 +81,4 @@ public class _0002AddTwoNumbers {
     }
     return result;
   }
-
-
-//  public static void main(String[] args) {
-//    ListNode l1 = new ListNode(1);
-//    ListNode l2 = new ListNode(2);
-//    ListNode p1 = l1;
-//    ListNode p2 = l2;
-//
-//    int[] arr1 = new int[] {1, 1};
-//    int[] arr2 = new int[] {2, 2};
-//
-//    for (int i = 0; i < arr1.length; i++) {
-//      ListNode ln1 = new ListNode(arr1[i]);
-//      p1.next = ln1;
-//      p1 = p1.next;
-//    }
-//
-//    for (int j = 0; j < arr2.length; j++) {
-//      ListNode ln2 = new ListNode(arr2[j]);
-//      p2.next = ln2;
-//      p2 = p2.next;
-//    }
-//
-////    while (l1 != null) {
-////      System.out.print(String.valueOf(l1.val) + " ");
-////      l1 = l1.next;
-////    }
-////    System.out.println("---");
-////
-////    while (l2 != null) {
-////      System.out.print(String.valueOf(l2.val) + " ");
-////      l2 = l2.next;
-////    }
-////    System.out.println("---");
-//
-//    Solution s = new Solution();
-//    ListNode result  = s.addTwoNumbers(l1, l2);
-//
-//
-//
-//    while (result != null) {
-//      System.out.print(String.valueOf(result.val) + " ");
-//      result = result.next;
-//    }
-//  }
 }

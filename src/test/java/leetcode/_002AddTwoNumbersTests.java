@@ -34,8 +34,8 @@ public class _002AddTwoNumbersTests {
 
   @Test(testName = "Same length no carry")
   public void testSameLengthNoCarry() {
-    int[] arr1 = new int[] {1, 2, 3};
-    int[] arr2 = new int[] {2, 3, 4};
+    int[] arr1 = new int[]{1, 2, 3};
+    int[] arr2 = new int[]{2, 3, 4};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
@@ -47,8 +47,8 @@ public class _002AddTwoNumbersTests {
 
   @Test(testName = "Same length with carry")
   public void testSameLengthWithCarry() {
-    int[] arr1 = new int[] {1, 5, 3};
-    int[] arr2 = new int[] {2, 8, 4};
+    int[] arr1 = new int[]{1, 5, 3};
+    int[] arr2 = new int[]{2, 8, 4};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
@@ -60,8 +60,8 @@ public class _002AddTwoNumbersTests {
 
   @Test(testName = "l1 longer with 2 carries")
   public void testL1Longer() {
-    int[] arr1 = new int[] {1, 5, 3, 9, 9, 9, 8};
-    int[] arr2 = new int[] {2, 8, 9};
+    int[] arr1 = new int[]{1, 5, 3, 9, 9, 9, 8};
+    int[] arr2 = new int[]{2, 8, 9};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
@@ -73,8 +73,8 @@ public class _002AddTwoNumbersTests {
 
   @Test(testName = "l2 longer with 2 carries")
   public void testL2Longer() {
-    int[] arr2 = new int[] {1, 5, 3, 9, 9, 9, 8};
-    int[] arr1 = new int[] {2, 8, 9};
+    int[] arr2 = new int[]{1, 5, 3, 9, 9, 9, 8};
+    int[] arr1 = new int[]{2, 8, 9};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
@@ -86,27 +86,27 @@ public class _002AddTwoNumbersTests {
 
   @Test(testName = "l1 only 0")
   public void testL1OnlyZero() {
-    int[] arr1 = new int[] {0};
-    int[] arr2 = new int[] {2, 8, 9};
+    int[] arr1 = new int[]{0};
+    int[] arr2 = new int[]{2, 8, 9};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
 
     List actual = convertListNodeToList(new _0002AddTwoNumbers().addTwoNumbers(l1, l2));
-    List expect = Arrays.asList(2,8, 9);
+    List expect = Arrays.asList(2, 8, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
 
   @Test(testName = "l2 only 0")
   public void testL2OnlyZero() {
-    int[] arr2 = new int[] {0};
-    int[] arr1 = new int[] {2, 8, 9};
+    int[] arr2 = new int[]{0};
+    int[] arr1 = new int[]{2, 8, 9};
     ListNode l1 = convertArrayToListNode(arr1);
     ListNode l2 = convertArrayToListNode(arr2);
 
 
     List actual = convertListNodeToList(new _0002AddTwoNumbers().addTwoNumbers(l1, l2));
-    List expect = Arrays.asList(2,8, 9);
+    List expect = Arrays.asList(2, 8, 9);
     Assert.assertEquals(expect.iterator(), actual.iterator(), "not match");
   }
 }
