@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c8936f-a341-4bf0-a89e-5fd603115e01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0014LongestCommonPrefixTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,25 +22,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="30" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="30" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2329" />
+          <entry key="java" value="2653" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2329" />
+          <entry key="JAVA" value="2653" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -49,15 +48,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0007ReverseIntegerTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
+            <state relative-caret-position="309">
               <caret line="48" column="32" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -121,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="703">
+              <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,10 +121,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0014LongestCommonPrefixTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0014LongestCommonPrefixTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -275,7 +278,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548808521958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548815723064" />
     <property name="last_opened_file_path" value="D:/intellijspace/VIP_VQ_App" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -377,7 +380,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548784721315</updated>
-      <workItem from="1548784722649" duration="15167000" />
+      <workItem from="1548784722649" duration="17851000" />
     </task>
     <servers />
   </component>
@@ -391,9 +394,12 @@
     <history-entry file="_0013RomanToIntegerTests - 2019.01.29 at 12h 39m 57s.xml">
       <configuration name="_0013RomanToIntegerTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_0014LongestCommonPrefixTests - 2019.01.29 at 16h 35m 05s.xml">
+      <configuration name="_0014LongestCommonPrefixTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15167000" />
+    <option name="totallyTimeSpent" value="17851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
@@ -549,16 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -580,16 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -602,8 +588,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0014LongestCommonPrefixTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
