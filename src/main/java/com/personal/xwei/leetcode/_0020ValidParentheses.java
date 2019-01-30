@@ -41,10 +41,16 @@ public class _0020ValidParentheses {
     if (s.length() == 0) return true;
     for (int i = 0; i < s.length(); i++) {
       if (s.charAt(i) == '(') stack.push(')');
-      if (s.charAt(i) == '[') stack.push(']');
-      if (s.charAt(i) == '{') stack.push('}');
-      if (s.isEmpty()) return true
+      else {
+        if (s.charAt(i) == '[') stack.push(']');
+        else {
+          if (s.charAt(i) == '{') stack.push('}');
+          else {
+            if (stack.isEmpty() || stack.pop() != s.charAt(i)) return false;
+          }
+        }
+      }
     }
-
+    return stack.isEmpty();
   }
 }
