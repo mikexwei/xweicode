@@ -4,7 +4,7 @@ import com.personal.xwei.leetcode._0001TwoSum;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class _001TwoSumTests {
+public class _0001TwoSumTests {
 
   @Test
   public void testTwoSumAnswerExist() {

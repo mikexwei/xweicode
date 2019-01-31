@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c8936f-a341-4bf0-a89e-5fd603115e01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0026RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0000TestTemplate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0001TwoSumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0002AddTwoNumbersTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetcode/_0771JewelsAndStonesTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,25 +26,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="35" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="35" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2653" />
+          <entry key="dummy" value="3" />
+          <entry key="java" value="3254" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2653" />
+          <entry key="JAVA" value="3254" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -70,12 +77,19 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="5" selection-start-line="11" selection-end-line="12" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +98,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0771JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0013RomanToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="32" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,10 +117,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0021MergeTwoSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
               <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
               <folding>
                 <element signature="e#395#396#0" expanded="true" />
                 <element signature="e#416#417#0" expanded="true" />
@@ -109,10 +137,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0929UniqueEmailAddresses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0020ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,6 +156,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0977SquaresOfASortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -150,24 +186,30 @@
                 <element signature="imports" expanded="true" />
                 <element signature="method#convertListNodeToList#0;class#_0021MergeTwoSortedListsTests#0" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0026RemoveDuplicatesFromSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0002AddTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0001TwoSumTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1315">
-              <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+            <state relative-caret-position="72">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0002AddTwoNumbersTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="23" selection-start-line="23" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="432">
+              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,10 +218,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0020ValidParenthesesTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0000TestTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+            <state relative-caret-position="108">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -187,6 +229,30 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0771JewelsAndStonesTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0014LongestCommonPrefixTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -220,6 +286,11 @@
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0021MergeTwoSortedListsTEsts.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0021MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/leetcode/_0021MergeTwoSortedListsTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_0001TwoSumTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_0002AddTwoNumbersTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_0771JewelsAndStonesTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/leetcode/_0000TestTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0026RemoveDuplicatesFromSortedArray.java" />
       </list>
     </option>
   </component>
@@ -229,11 +300,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="870" />
-    <option name="y" value="285" />
-    <option name="width" value="2100" />
-    <option name="height" value="1500" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1713" />
+    <option name="width" value="1734" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,36 +313,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -280,21 +349,53 @@
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xweicode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548835864771" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548885253888" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
     <property name="last_opened_file_path" value="D:/intellijspace/VIP_VQ_App" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -400,7 +501,6 @@
     <list>
       <item itemvalue="TestNG._0020ValidParenthesesTests" />
       <item itemvalue="TestNG._0020ValidParenthesesTests.test_0020ValidParentheses" />
-      <item itemvalue="TestNG._0020ValidParenthesesTests (1)" />
       <item itemvalue="TestNG._0021MergeTwoSortedListsTests.test" />
       <item itemvalue="TestNG._0021MergeTwoSortedListsTests" />
     </list>
@@ -408,7 +508,6 @@
       <list>
         <item itemvalue="TestNG._0021MergeTwoSortedListsTests" />
         <item itemvalue="TestNG._0021MergeTwoSortedListsTests.test" />
-        <item itemvalue="TestNG._0020ValidParenthesesTests (1)" />
         <item itemvalue="TestNG._0020ValidParenthesesTests.test_0020ValidParentheses" />
         <item itemvalue="TestNG._0020ValidParenthesesTests" />
       </list>
@@ -424,7 +523,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548784721315</updated>
-      <workItem from="1548784722649" duration="17851000" />
+      <workItem from="1548784722649" duration="22361000" />
     </task>
     <servers />
   </component>
@@ -461,12 +560,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17851000" />
+    <option name="totallyTimeSpent" value="22361000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13916501" />
+=======
+    <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11708482" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
       <window_info id="Structure" order="1" side_tool="true" weight="0.10417495" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -475,7 +581,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28279653" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
       <window_info anchor="bottom" id="Debug" order="3" weight="0.64976597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_001TwoSumTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0007ReverseIntegerTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -581,11 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0009PalindromeNumberTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="414">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -596,37 +696,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_771JewelsAndStonesTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0929UniqueEmailAddressesTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0929UniqueEmailAddressesTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0977SquaresOfASortedArrayTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0013RomanToIntegerTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -659,8 +749,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_002AddTwoNumbersTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="198">
           <caret line="23" selection-start-line="23" selection-end-line="32" selection-end-column="3" />
+=======
+        <state relative-caret-position="309">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="32" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -669,6 +764,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0002AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1315">
           <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
         </state>
@@ -682,11 +778,16 @@
             <element signature="imports" expanded="true" />
             <element signature="method#convertListNodeToList#0;class#_0021MergeTwoSortedListsTests#0" />
           </folding>
+=======
+        <state relative-caret-position="180">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0014LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="703">
           <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
           <folding>
@@ -699,6 +800,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-end-line="39" />
+=======
+        <state relative-caret-position="810">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -736,10 +841,51 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0977SquaresOfASortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0001TwoSumTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0002AddTwoNumbersTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0771JewelsAndStonesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/leetcode/_0000TestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personal/xwei/leetcode/_0026RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+>>>>>>> 2f4bd36fc13dbfc0afe2b5bd409e36a86aeaabcc
         </state>
       </provider>
     </entry>

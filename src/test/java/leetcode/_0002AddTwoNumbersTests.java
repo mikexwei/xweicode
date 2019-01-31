@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class _002AddTwoNumbersTests {
+public class _0002AddTwoNumbersTests {
 
   private ListNode convertArrayToListNode(int[] arr) {
     ListNode ln = new ListNode(arr[0]);
