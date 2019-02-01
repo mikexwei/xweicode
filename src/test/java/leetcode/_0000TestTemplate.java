@@ -7,11 +7,14 @@ public class _0000TestTemplate {
   @DataProvider(name = "dp")
   public Object[][] dataProvider() {
     //todo
-    return new Object[][]{{}, {}};
+    return new Object[][]{
+        {},
+        {}
+    };
   }
 
   @Test(dataProvider = "dp")
-  public void test(Object x1, Object x2, Object expect) {
+  public void test() {
 
 
   }
