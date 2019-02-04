@@ -31,8 +31,5 @@ public class _0083RemoveDuplicatesFromSortedList {
       result = result.next;
     }
     System.out.println(result.val);
-
-
-
   }
 }
