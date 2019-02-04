@@ -1,7 +1,7 @@
 package leetcode;
 
 import com.personal.xwei.leetcode._0002AddTwoNumbers;
-import com.personal.xwei.leetcode._0002AddTwoNumbers.ListNode;
+import com.personal.xwei.leetcode.utils.ListNode;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

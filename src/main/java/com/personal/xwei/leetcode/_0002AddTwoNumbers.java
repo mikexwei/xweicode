@@ -12,6 +12,8 @@ package com.personal.xwei.leetcode;
  * Explanation: 342 + 465 = 807.
  */
 
+import com.personal.xwei.leetcode.utils.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -22,14 +24,7 @@ package com.personal.xwei.leetcode;
  */
 
 public class _0002AddTwoNumbers {
-  public static class ListNode {
-    public int val;
-    public ListNode next;
 
-    public ListNode(int x) {
-      val = x;
-    }
-  }
 
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
     ListNode result = l1;

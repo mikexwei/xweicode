@@ -1,5 +1,7 @@
 package com.personal.xwei.leetcode;
 
+import com.personal.xwei.leetcode.utils.ListNode;
+
 /**
  * Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
  * <p>
@@ -9,14 +11,6 @@ package com.personal.xwei.leetcode;
  * Output: 1->1->2->3->4->4
  */
 public class _0021MergeTwoSortedLists {
-  public static class ListNode {
-    public int val;
-    public ListNode next;
-
-    public ListNode(int i) {
-      val = i;
-    }
-  }
 
   public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
     if (l1 == null && l2 == null) return null;

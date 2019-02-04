@@ -1,8 +1,8 @@
 package leetcode;
 
 import com.personal.xwei.leetcode._0021MergeTwoSortedLists;
-import com.personal.xwei.leetcode._0021MergeTwoSortedLists.ListNode;
 
+import com.personal.xwei.leetcode.utils.ListNode;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
