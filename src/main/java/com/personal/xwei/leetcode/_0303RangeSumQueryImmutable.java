@@ -1,5 +1,9 @@
 package com.personal.xwei.leetcode;
 
+
+
+import com.sun.tools.javac.util.Pair;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,7 +14,7 @@ import java.util.Map;
  */
 public class _0303RangeSumQueryImmutable {
   private int[] nums;
-  private Map<String, Integer> map = new HashMap<>();
+  private Map<Pair, Integer> map = new HashMap<>();
 
 
   public _0303RangeSumQueryImmutable(int[] nums) {
@@ -19,7 +23,8 @@ public class _0303RangeSumQueryImmutable {
 
   public int sumRange(int i, int j) {
     if (j >= nums.length - 1) j = nums.length - 1;
-    String range = String.valueOf(i) + String.valueOf(j);
+//    String range = String.valueOf(i) + String.valueOf(j);
+    Pair range = new Pair(i, j);
     if (this.map.containsKey(range)) return this.map.get(range);
     int result = 0;
     for (int idx = i; idx <= j; idx++) {
